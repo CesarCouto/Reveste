@@ -11,43 +11,63 @@ Reveste é um projeto desenvolvido em equipe que tem como objetivo dar visibilid
 # Visualização
 ### Pagina inicial
 
-![Web 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/inicial.png)
+![Web 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-1.png)
+
+### Modo escuro
+![Web 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-2.png)
 
 ### Destaques
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/destaques.png)
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-3.png)
 
 ### Categorias
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/categorias.png) 
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-7.png) 
 
-### Listagem de filmes
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/filmes-list.png)
+### Reveste&Doa
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-4.png)
 
-### Filme
-![Mobile 1](https://github.com/Ka1quee/TopCine/blob/main/components/images/preview/filme.png)
+### Quem Somos
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-5.png)
+
+### Cadastro
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-6.png)
+
+### Seleção de roupa
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-8.png)
+
+### Sacola
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-9.png)
+
+### Confirmação de roupa
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-10.png)
+
+### Suporte
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-11.png)
+
+### Instagram
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-12.png)
+
+### Facebook
+![Mobile 1](https://github.com/CesarCouto/Reveste/blob/main/componentes/preview/img-13.png)
 
 
 
 
 # Autores
 
-### Kaique Oliveira de Freitas Mota
-https://www.linkedin.com/in/kaique-oliveira-489451251/
+### César Rodrigues Couto
+https://www.linkedin.com/in/c%C3%A9sar-rodrigues-couto-628807226/
 
-### Matheus Ribeiro Morgado
-https://www.linkedin.com/in/mathmorgado?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADrgHdgBO9yVij_Gnao-UJZD3nl15SU3z1w&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bxu%2F5HBtTR9aaCLA7sh%2FtuQ%3D%3D
+### Gabriel Sora
+https://www.linkedin.com/in/gabriel-alves-8203991b9/
 
-### Reginaldo Ferreira
-https://www.linkedin.com/in/reginaldo-ferreira-junior-2a3ab7297/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### Giovana Tavares
+https://www.linkedin.com/in/giovanna-tavares-2a357a22a/
 
-### Jhon Wesley
-https://www.linkedin.com/in/john-wesley-a82636288/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### Gabriel Lopes
 
-### Juan Pina
-https://www.linkedin.com/in/juan-pina-7922a625b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-### Victor da Silva
+### Aline
 
-https://www.linkedin.com/in/victor-da-silva-83a2b4270/
 
-### Cesar Rodrigues
-https://www.linkedin.com/in/victor-da-silva-83a2b4270/
+### Paulo Cesar
+
