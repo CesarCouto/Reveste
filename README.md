@@ -64,10 +64,10 @@ https://www.linkedin.com/in/gabriel-alves-8203991b9/
 https://www.linkedin.com/in/giovanna-tavares-2a357a22a/
 
 ### Gabriel Lopes
-
+https://www.linkedin.com/in/gabriel-lopes-01b0311a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ### Aline
-
+https://www.linkedin.com/in/aline-souza-84b18226a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 ### Paulo Cesar
 
